@@ -52,7 +52,6 @@ function Hirschberg(X, Y)
 <details>
 <summary>Nastavení Git</summary>
 
-> #### Nastavení Git
 > * Nastavení editoru
 > ```bash
 > git config --global core.editor notepad
