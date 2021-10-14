@@ -5,7 +5,7 @@ Oproti Needleman-Wunsch algoritmu je Hirschbergův algoritmus prostorově efekti
 | | Časová náročnost | Prostorová náročnost |
 |---|---|---|
 | Needleman-Wunschův algoritmus | *O(n\*m)* | *O(n\*m)* |
-| Hirschbergův algoritmus | *O(n\*m)* | *O(min{n,m})* |
+| Hirschbergův algoritmus | *O(n\*m)* | *O(n+m)* |
 
 ### Popis algoritmu
 Viz pdf soubor *Hirschberguv_algoritmus.pdf* nebo [wikipedie](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm).
